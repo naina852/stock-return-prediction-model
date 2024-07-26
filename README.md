@@ -1,1 +1,0 @@
-# stock-return-prediction-model
